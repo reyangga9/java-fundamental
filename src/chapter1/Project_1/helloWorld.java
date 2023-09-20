@@ -1,4 +1,4 @@
-package Project_1;
+package chapter1.Project_1;
 
 public class helloWorld {
     public static void main(String[] args) {
